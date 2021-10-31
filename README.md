@@ -22,7 +22,7 @@
 ### 🔍 Browsers
 
 - Firefox: opensource privacy based browser (have to make some tweaks to make it more secure)
-- Brave: opensource chromium based browser (has the tweaks out of the box for privacy)
+- Brave: opensource chromium based browser (comes with the tweaks for privacy out of the box)
 
 ### 🦁 Brave Extensions:
 
