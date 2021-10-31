@@ -26,13 +26,13 @@
 
 ### 🦁 Brave Extensions:
 
-####      Privacy Tools:-
+#### Privacy Tools:-
 
 - uBlock Origin: ads blocker.
 - HTTPS Everywhere: opens links through https. 
 - Startpage: privacy centered search engine.
 
-####      Themeing and Others:-
+#### Themeing and Others:-
 
 - Dark Reader: applies dark theme to every webpage.
 - nightTab: an amazing theme for brave home page.
