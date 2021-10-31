@@ -1,1 +1,1 @@
-# awesome-recomendations
+# awesome-recommendations
