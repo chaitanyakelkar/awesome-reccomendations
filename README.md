@@ -43,3 +43,12 @@
 
 - Dark Reader: applies dark theme to every webpage.
 - nightTab: an amazing theme for brave home page.
+- 
+
+
+
+### 🎨 Editing Softwares:
+
+- Gimp: free and opensource GNU project for photo editing.
+- Kdenlive: free and opensource video editing software based on MLT(Media Lovin' Toolkit) framework.
+- Inkscape: free and open-source vector graphics editor used to create vector images.
