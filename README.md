@@ -14,7 +14,10 @@
 
 - **xset led 3**: turn on keyboard backlight for keyboards that turn on led with scroll lock. (for linux) (add it to startup apps)
 
-  
+### Terminals:
+
+- **Alacritty**: better in speed as compared to other terminals.
+
 
 ### 🎼 Music Apps:
 
