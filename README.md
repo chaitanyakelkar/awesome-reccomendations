@@ -55,3 +55,23 @@
 - **Kdenlive**: free and opensource video editing software based on MLT(Media Lovin' Toolkit) framework.
 - **Inkscape**: free and open-source vector graphics editor used to create vector images.
 - **Draw.io**: free and open-source software for diagramming/white boarding visualization.
+
+### ⚙️ Gnome Extensions:
+
+- **User Themes**: displays user installed themes in the tweaks.
+- **Floating Dock**: favourite applications dock.
+- **GS Connect**: to sync all extensions with the system.
+- **Coverflow Alt-Tab**: switch app-windows using alt-tab with some different styles of switching app-windows.
+- **BaBar Taskbar**: displays open apps in the taskbar.
+- **Clipboard Indicator**: a clipboard extension to display copied items.
+- **Fly-Pie**: a different kind of dock.
+- **Lock Keys**: a notifier for capslock and numlock.
+- **Places Status Indicator**: easy access from taskbar for different locations in the file system. 
+- **Removable Drive Menu**: 
+- **Screenshot Tool**: 
+- **Sound Input and Output Device Chooser**:
+- **Time ++**:
+- **Unite**: displays app-windows titlebar to the taskbar.
+- **Workspaces Thumbnails**: workspace thumbnails on the taskbar.
+
+
